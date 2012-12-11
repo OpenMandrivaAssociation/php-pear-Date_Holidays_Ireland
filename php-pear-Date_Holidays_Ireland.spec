@@ -60,3 +60,11 @@ fi
 %defattr(-,root,root)
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
+
+
+%changelog
+* Wed Jan 25 2012 Oden Eriksson <oeriksson@mandriva.com> 0.1.3-1mdv2012.0
++ Revision: 768664
+- import php-pear-Date_Holidays_Ireland
+
+
